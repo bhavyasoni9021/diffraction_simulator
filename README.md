@@ -1,23 +1,23 @@
-# 🔬 Interactive Wave Optics Simulation & Measurement Lab
+# Interactive Wave Optics Simulation & Measurement Lab
 
 An advanced physics-based simulation platform to explore wave optics concepts like diffraction and interference in both **2D and 3D**.
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🌊 Single Slit Diffraction (2D + 3D)
-- 🌊 Double Slit Interference (2D + 3D)
-- 🌊 Diffraction Grating (2D + 3D)
-- 🎥 Real-time animations
-- 📊 Interactive intensity graphs
-- 🧠 Inverse solver (parameter estimation)
-- 📈 Sensitivity analysis
-- 🎯 Guided mode for learning
+- Single Slit Diffraction (2D + 3D)
+- Double Slit Interference (2D + 3D)
+- Diffraction Grating (2D + 3D)
+- Real-time animations
+- Interactive intensity graphs
+- Inverse solver (parameter estimation)
+- Sensitivity analysis
+- Guided mode for learning
 
 ---
 
-## 🧠 Physics Concepts Covered
+## Physics Concepts Covered
 
 - Diffraction
 - Interference
@@ -27,13 +27,7 @@ An advanced physics-based simulation platform to explore wave optics concepts li
 
 ---
 
-## 🖥️ Demo
-
-![Demo](assets/demo.gif)
-
----
-
-## ⚙️ Installation
+## Installation
 
 ```bash
 git clone https://github.com/your-username/wave-optics-lab.git
